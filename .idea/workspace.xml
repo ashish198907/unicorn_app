@@ -22,16 +22,25 @@
       <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="24" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
+            <state line="38" column="1" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.example.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.example.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="24" selection-start="669" selection-end="669" vertical-scroll-proportion="0.44350758">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="525" selection-end="525" vertical-scroll-proportion="0.48622367">
+            <state line="20" column="0" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,7 +49,7 @@
       <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="62" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0">
+            <state line="23" column="60" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,6 +108,7 @@
         <option value="$PROJECT_DIR$/Capfile" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.example.yml" />
       </list>
     </option>
   </component>
@@ -461,13 +471,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="24" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="52" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
@@ -496,16 +499,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="62" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0">
+        <state line="20" column="0" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="525" selection-end="525" vertical-scroll-proportion="0.48622367">
+        <state line="23" column="60" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="1" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.example.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="669" selection-end="669" vertical-scroll-proportion="0.44350758">
           <folding />
         </state>
       </provider>
