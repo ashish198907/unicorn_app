@@ -3,6 +3,11 @@ require "rvm/capistrano"
 
 server "ec2-54-235-63-23.compute-1.amazonaws.com", :web, :app, :db, primary: true
 
+default_run_options[:pty] = true
+ssh_options[:forward_agent] = true
+ssh_options[:auth_methods] = ["publickey"]
+ssh_options[:keys] = ["/home/ashish/Desktop/nqlivedev.pem"]
+
 set :application, "unicorn_app"
 set :user, "ec2-user"
 set :port, 22
