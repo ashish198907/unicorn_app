@@ -22,7 +22,7 @@
       <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="1" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+            <state line="37" column="16" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file leaf-file-name="database.example.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.example.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="24" selection-start="669" selection-end="669" vertical-scroll-proportion="0.44350758">
+            <state line="16" column="16" selection-start="406" selection-end="406" vertical-scroll-proportion="0.26644182">
               <folding />
             </state>
           </provider>
@@ -101,13 +101,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/nginx.conf" />
         <option value="$PROJECT_DIR$/config/unicorn.rb" />
         <option value="$PROJECT_DIR$/config/unicorn_init.sh" />
         <option value="$PROJECT_DIR$/Capfile" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/database.example.yml" />
       </list>
     </option>
@@ -515,14 +515,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="1" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+        <state line="37" column="16" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.example.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="669" selection-end="669" vertical-scroll-proportion="0.44350758">
+        <state line="16" column="16" selection-start="406" selection-end="406" vertical-scroll-proportion="0.26644182">
           <folding />
         </state>
       </provider>

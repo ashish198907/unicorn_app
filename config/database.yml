@@ -35,5 +35,5 @@ production:
   database: unicorn_app_production
   pool: 5
   username: root
-  password: ireslab@2014
+  password: ires@2014
   socket: /var/run/mysqld/mysqld.sock
