@@ -1,4 +1,4 @@
-root = "/home/ec2-user/unicorn_app/current"
+root = "/home/ec2-user/unicorn_app/production/current"
 working_directory root
 pid "#{root}/tmp/pids/unicorn.pid"
 stderr_path "#{root}/log/unicorn.log"
