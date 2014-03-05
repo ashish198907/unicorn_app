@@ -1,8 +1,9 @@
 set :stages, %w(production staging)     #various environments
 
 require "bundler/capistrano"
+require 'capistrano/ext/multistage'
 require "rvm/capistrano"
-
+require './config/boot'
 server "ec2-54-235-63-23.compute-1.amazonaws.com", :web, :app, :db, primary: true
 
 default_run_options[:pty] = true
