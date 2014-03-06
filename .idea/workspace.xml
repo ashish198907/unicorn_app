@@ -37,15 +37,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,6 +64,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="unicorn_init_production.sh" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/unicorn_init_production.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="80" selection-start="608" selection-end="608" vertical-scroll-proportion="0.40472177">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="unicorn_init_staging.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/unicorn_init_staging.sh">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="staging.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="staging.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/staging.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -133,6 +133,7 @@
         <option value="$PROJECT_DIR$/config/nginx_production.conf" />
         <option value="$PROJECT_DIR$/config/nginx_staging.conf" />
         <option value="$PROJECT_DIR$/config/unicorn_init_staging.sh" />
+        <option value="$PROJECT_DIR$/config/unicorn_init_production.sh" />
       </list>
     </option>
   </component>
@@ -610,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/unicorn_init_production.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="55" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="64" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.0">
@@ -638,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/unicorn_production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="80" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/unicorn_staging.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="88" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
@@ -662,6 +649,20 @@
     <entry file="file://$PROJECT_DIR$/config/environments/staging.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/unicorn_production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="80" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/unicorn_init_production.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="80" selection-start="608" selection-end="608" vertical-scroll-proportion="0.40472177">
           <folding />
         </state>
       </provider>
